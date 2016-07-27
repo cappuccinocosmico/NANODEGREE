@@ -32,7 +32,7 @@ h2 {
 	width: 9%;
 
 }
-div.first p {
+div.text-style p {
 	background-color: #7B3F00;
 	border-radius: 300%;
 	background-size: 10% 100%; 
@@ -40,33 +40,15 @@ div.first p {
 	text-align: center;
 	font-size: 24px;
 	padding: 100px;
-	margin: 30px auto;
+	margin: 30px auto11;
+}
+div.w10 p {
 	width: 10%;
-
-	 ;
 }
-div.seccond p {
-	background-color: #7B3F00;
-	border-radius: 300%;
-	background-size: 10% 100%; 
-	color: white;
-	text-align: center;
-	font-size: 24px;
-	padding: 100px;
-	margin: 30px auto;
-	width: 11.97%
-	 ;
+div.w1197 p {
+	width: 11.97%;
 }
-div.third p {
-	background-color: #7B3F00;
-	border-radius: 300%;
-	background-size: 10% 100%; 
-	color: white;
-	text-align: center;
-	font-size: 24px;
-	padding: 100px;
-	margin: 30px auto;
-	width: 11%
-	 ;
+div.w11 p {
+	width: 11%;
 }
 
