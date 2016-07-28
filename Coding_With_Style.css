@@ -18,7 +18,7 @@ h1 {
 	font-size: 96px;
 	padding: 150px;
 	margin: 31px auto;
-	width: 15%;
+	width: 10%;
 }
 h2 {
 	background-color: #F3E5AB;
@@ -29,7 +29,7 @@ h2 {
 	font-size: 42px;
 	padding: 100px;
 	margin: 30px auto;
-	width: 9%;
+	width: 7%;
 
 }
 div.text p {
@@ -40,7 +40,7 @@ div.text p {
 	text-align: center;
 	font-size: 24px;
 	padding: 100px;
-	margin: 30px auto11;
+	margin: 30px auto ;
 }
 div.wten p {
 	width: 10%;
