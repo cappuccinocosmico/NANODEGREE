@@ -1,16 +1,6 @@
-/*h1	{
-	font-family: orbitron;
-	font-size: 96;
-	color: 	#7B3F00;
-	text-align: center;
-	background-color: #F3E5AB;
-	padding: 10px 20px;
-	margin:0 auto;
-	border-color:#C2B280;
-}
-*/
+
 h1 {
-	background-color: #F3E5AB;
+	background-color: #f3e5ab;
 	border-radius: 500%;
 	background-size: 10% 100%; 
 	color: #7B3F00;
@@ -21,7 +11,7 @@ h1 {
 	width: 10%;
 }
 h2 {
-	background-color: #F3E5AB;
+	background-color: #f3e5ab;
 	border-radius: 300%;
 	background-size: 10% 100%; 
 	color: #612302;
@@ -33,7 +23,7 @@ h2 {
 
 }
 div.text p {
-	background-color: #7B3F00;
+	background-color: #7b3f00;
 	border-radius: 300%;
 	background-size: 10% 100%; 
 	color: white;
@@ -42,13 +32,13 @@ div.text p {
 	padding: 100px;
 	margin: 30px auto;
 }
+div.weight p {
+	width: 8%;
+}
 div.wten p {
 	width: 10%;
 }
-div.wtwelve p {
-	width: 11.97%;
-}
-div.weleven p {
-	width: 11%;
+div.wnine p {
+	width: 9%;
 }
 
